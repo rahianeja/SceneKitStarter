@@ -21,7 +21,6 @@ class GameViewController: UIViewController {
         setupView()
         setupScene()
         setupCamera()
-//        setupObject()
 //        spawnShape()
     }
     
